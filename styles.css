@@ -1,0 +1,12 @@
+body{
+    background-color: aliceblue;
+    display: flex;
+    width: 96vw;
+    height: 96vh;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: rgb(132, 131, 128);
+}

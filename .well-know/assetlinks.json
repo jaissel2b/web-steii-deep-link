@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+        "namespace": "android_app",
+        "package_name": "com.steii.steii",
+        "sha256_cert_fingerprints":
+        ["1C:08:94:8D:D1:5D:B2:74:E4:1F:87:B3:31:19:71:4E:42:80:ED:84:CD:3C:1A:16:65:57:00:1E:59:8C:0F:8B"]
+    }
+  }]
